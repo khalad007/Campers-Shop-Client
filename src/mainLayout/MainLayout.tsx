@@ -8,7 +8,7 @@ const MainLayout = () => {
 
     const cart = useAppSelector((state) => state.cart);
 
-    console.log(cart);
+    // console.log(cart);
 
     useEffect(() => {
         function handleOnBeforeUnload(event: BeforeUnloadEvent) {
