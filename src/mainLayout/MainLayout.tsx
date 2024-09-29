@@ -32,7 +32,7 @@ const MainLayout = () => {
         };
     }, [cart]);
     return (
-        <div className="  bg-[#0E0E0E] max-w-screen-2xl">
+        <div className="  bg-[#0E0E0E] w-full">
             <Navbar />
             <Outlet />
             <Footer />

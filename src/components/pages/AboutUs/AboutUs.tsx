@@ -55,10 +55,10 @@ const AboutUs = () => {
                                 </p>
                                 <div className="flex md:flex-row flex-col justify-center items-center">
                                     <Link to=''>
-                                        <button className="inline-flex text-white bg-[#c1c1c117] border-0 py-1 px-6 text-center focus:outline-none hover:bg-[#c1c1c10f] mx-auto rounded-[25px] w-full text-sm md:text-lg">+880 1880384564</button>
+                                        <button className="inline-flex text-white bg-[#c1c1c117] border-0 py-1 px-6 text-center focus:outline-none hover:bg-[#c1c1c10f] mx-auto rounded-[25px] w-full text-sm md:text-lg">+880 1877578440</button>
                                     </Link>
                                     <Link to=''>
-                                        <button className="inline-flex gap-2 text-white bg-[#6d31ce17] border-0 py-1 px-2 md:px-6 text-center focus:outline-none hover:bg-[#c1c1c10f] mx-auto rounded-[25px] w-full text-sm md:text-lg">abenctures@gmail.com</button>
+                                        <button className="inline-flex gap-2 text-white bg-[#6d31ce17] border-0 py-1 px-2 md:px-6 text-center focus:outline-none hover:bg-[#c1c1c10f] mx-auto rounded-[25px] w-full text-sm md:text-lg">abirjr78@gmail.com</button>
                                     </Link>
                                 </div>
                             </div>

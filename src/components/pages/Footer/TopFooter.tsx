@@ -113,7 +113,7 @@ const TopFooter = () => {
                         </div>
                         <div className='flex flex-col text-white'>
                             <h1>Email:</h1>
-                            <h1 className='text-[16px]'>example@gmail.com</h1>
+                            <h1 className='text-[16px]'>abirjr78@gmail.com</h1>
                         </div>
                     </div>
                     <div className='flex items-center rounded-xl border-gray-500 justify-center w-[270px] gap-7 p-3 border hover:border-red-500'>
@@ -122,7 +122,7 @@ const TopFooter = () => {
                         </div>
                         <div className='flex flex-col text-white'>
                             <h1>Phone:</h1>
-                            <h1 className='text-[16px]'>+880 1880384564</h1>
+                            <h1 className='text-[16px]'>+880 1877578440</h1>
                         </div>
                     </div>
                 </div>
